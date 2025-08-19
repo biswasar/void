@@ -1,4 +1,4 @@
-# Journal 2025 📓
+# Logs 2025 📓
 
 A weekly log of my learning and progress in cybersecurity, Linux, and programming.  
 This repo tracks my journey through university and beyond.
